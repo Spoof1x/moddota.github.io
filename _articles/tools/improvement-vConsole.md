@@ -106,4 +106,5 @@ with running tools :
 ![toolbar2](/images/improvement-vconsole/toolbar2.png)
 
 I hope my article will help you better organize your workspace when developing addons and you will be able to make more good and interesting projects.
-> PS my native languages BY RUS , I apologize for possible translation inaccuracies.
+> oda
+> 
