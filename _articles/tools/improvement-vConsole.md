@@ -102,7 +102,7 @@ View of my toolbar without Dota2 tools running :
 ![toolbar1](/images/improvement-vconsole/toolbar1.png)
 
 with running tools :
-
+123
 ![toolbar2](/images/improvement-vconsole/toolbar2.png)
 
 I hope my article will help you better organize your workspace when developing addons and you will be able to make more good and interesting projects.
